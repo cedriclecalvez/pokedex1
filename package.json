@@ -1,5 +1,5 @@
 {
-  "name": "Pokedex",
+  "name": "pokedex",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.9.1",
+    "dotenv": "^9.0.2",
     "nuxt": "^2.15.3"
   },
   "devDependencies": {}
